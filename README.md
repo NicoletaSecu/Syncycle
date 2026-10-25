@@ -1,4 +1,4 @@
-# Sync — loop tracker
+# Sync — menstrual cycle tracker
 
 🇬🇧 English · [🇮🇹 Italiano](README.it.md)
 
