@@ -20,4 +20,4 @@ Tutti i dati restano nel browser del tuo dispositivo. L'hosting consegna solo la
 HTML, CSS e JavaScript puri (nessuna dipendenza). App statica, PWA.
 
 ---
-Fatto da **Secu Nicoleta** — [github.com/NicoletaSecu](https://github.com/NicoletaSecu/github.io)
+Fatto da **Secu Nicoleta** — https://nicoletasecu.github.io
