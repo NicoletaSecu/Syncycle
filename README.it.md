@@ -1,5 +1,7 @@
 # 🩸 Sync — tracker del ciclo
 
+🇮🇹 Italiano · [🇬🇧 English](README.md)
+
 App per tracciare il ciclo mestruale con i **dati salvati solo sul tuo dispositivo**: nessun account, nessun server, niente pubblicità.
 
 🔗 **App online:** https://syncycle.onrender.com
