@@ -2,7 +2,7 @@
 
 App per tracciare il ciclo mestruale con i **dati salvati solo sul tuo dispositivo**: nessun account, nessun server, niente pubblicità.
 
-🔗 **App online:** https://sync-3vas.onrender.com
+🔗 **App online:** https://syncycle.onrender.com
 
 ## Cosa fa
 - **Oggi** — fase del ciclo, giorno e previsioni (prossimo ciclo, ovulazione, finestra fertile)
